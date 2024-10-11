@@ -14,6 +14,7 @@
 
 
 ### Resultado
+![image](https://github.com/user-attachments/assets/6e29e0e3-eae6-4348-9c96-8b86c26d6840)
 
 
 ### Evidencia de autoría
@@ -24,6 +25,7 @@
 
 
 ### Resultado
+![image](https://github.com/user-attachments/assets/e7230459-f162-451b-a677-60de80c8b9f5)
 
 
 ### Evidencia de autoría
@@ -34,4 +36,5 @@
 
 
 ### Resultado
+![image](https://github.com/user-attachments/assets/209514a2-0881-42fd-a38c-700a9221f4d9)
 
