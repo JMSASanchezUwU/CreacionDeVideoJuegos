@@ -100,5 +100,6 @@
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/209514a2-0881-42fd-a38c-700a9221f4d9)
+![image](https://github.com/user-attachments/assets/227b7006-249b-4da3-b2a6-d82ed16336c4)
+
 
