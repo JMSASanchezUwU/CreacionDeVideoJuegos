@@ -1,4 +1,4 @@
-[Prototipo 3 jmsa.pdf](https://github.com/user-attachments/files/17807711/Prototipo.3.jmsa.pdf)# CREACIÓN DE VIDEOJUEGOS 
+# CREACIÓN DE VIDEOJUEGOS 
 
 # U2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS
 ## José Manuel Sánchez Arredondo
