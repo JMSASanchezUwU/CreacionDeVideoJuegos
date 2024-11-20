@@ -7,8 +7,11 @@
 ### **TABLA DE CONTENIDO**
 - [01: Prototipo 1.](#01-Prototipo-1)
 - [02: Prototipo 2.](#02-Prototipo-2)
-- [03: Desafío 1.](#03-Desafío-1)
-
+- [03: Prototipo 3.](#03-Prototipo-3)
+- [04: Prototipo 4.](#04-Prototipo-4)
+- [05: Prototipo 5.](#05-Prototipo-5)
+- [06: Desafío 1.](#06-Desafío-1)
+- [07: Desafío 2.](#07-Desafío-2)
 ## 01: Prototipo 1.
 ### Link del proyecto
 <a href="https://github.com/JMSASanchezUwU/CreacionDeVideoJuegos/blob/main/prototipo1.unitypackage">
